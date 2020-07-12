@@ -8,6 +8,8 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 ## Examples
 
 
+https://avatars0.githubusercontent.com/u/345069?v=4
+
 ## Contribute
 
 Contributions are always welcome!
