@@ -1,5 +1,6 @@
-<img src="profile.gif" align="right" />
-# Hi, I am Zia [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+<img src="profile.gif" align="right" style="height: 400px;width: 400px;" />
+
+# Hi, I am Zia [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 ## My best five project repository
 
