@@ -1,4 +1,4 @@
-<img src="profile.gif" align="right" style="height: 400px;width: 400px;" />
+![alt-text](https://raw.githubusercontent.com/ZiaCodes/Ziacodes/master/profile.gif)
 
 
 
