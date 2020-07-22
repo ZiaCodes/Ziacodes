@@ -2,11 +2,11 @@
 
 ***
 
-# Hi, I am Zia ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+# Hi, I am Zia [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-![Web Development](https://raw.githubusercontent.com/ZiaCodes/Ziacodes/master/web-development%20(1).png)
 
-## My best five project repository you can check out ::
+
+## My best five project repository you can check out ![Web Development](https://raw.githubusercontent.com/ZiaCodes/Ziacodes/master/web-development%20(1).png)
 
 [Black Life matters](https://github.com/ZiaCodes/Black-life-matter "Support Black Life Matters Movement")
 
