@@ -8,9 +8,9 @@
 
 ## My best five project repository you can check out ![Web Development](https://raw.githubusercontent.com/ZiaCodes/Ziacodes/master/web-development%20(1).png)
 
-| Name of the project | Type | Repository Link |
+|     Name of the project     |     Type     |     Repository Link     |
 |---|---|---|
-|Black Life matters| Website | [Link](https://github.com/ZiaCodes/Black-life-matter "Support Black Life Matters Movement") |
+|     Black Life matters     |     Website     |     [Click here for the repository](https://github.com/ZiaCodes/Black-life-matter "Support Black Life Matters Movement")    |
 
 
 
