@@ -8,14 +8,14 @@
 
 ## My best five project repository you can check out ![Web Development](https://raw.githubusercontent.com/ZiaCodes/Ziacodes/master/web-development%20(1).png)
 
-|  **Name of the projects**   |  **Type of the projects**      |  **Repositories**  |
-|---|---|---|
-| **Black Life matters**     | **Social Support Web Design**  |  [Go to the repository](https://github.com/ZiaCodes/Black-life-matter "Support Black Life Matters Movement") |
-| **Watch 2 earn**           | **Advertisement Web Design**    |  [Go to the repository](https://github.com/ZiaCodes/watch-movie2earn "Advertisement web desgin Watch to earn website") |
-| **Landing page**           | **Desktop Web desgin**          | [Go to the repository](https://github.com/ZiaCodes/landing-page "Responsive Landing page for desktop site") |
-| **Happy Shopping**         | **E commerce Web Design**       | [Go to the repository](https://github.com/ZiaCodes/landing-page "E commerce web design") |
-|**Minimal Portfolio**       | **Portfolio Web Design**        | [Go to the repository](https://github.com/ZiaCodes/about "My portfolio") |
-| **Professional Portfolio** | **Portfolio Web Design**        | [Go to the repository](https://github.com/ZiaCodes/about "Portfolio Design") |
+|  **Name of the projects**  |  **Repositories**  |
+|---|---|
+| **Black Life matters**     |  [Go to the repository](https://github.com/ZiaCodes/Black-life-matter "Support Black Life Matters Movement") |
+| **Watch 2 earn**           |  [Go to the repository](https://github.com/ZiaCodes/watch-movie2earn "Advertisement web desgin Watch to earn website") |
+| **Landing page**           |  [Go to the repository](https://github.com/ZiaCodes/landing-page "Responsive Landing page for desktop site") |
+| **Happy Shopping**         |  [Go to the repository](https://github.com/ZiaCodes/landing-page "E commerce web design") |
+|**Minimal Portfolio**       |  [Go to the repository](https://github.com/ZiaCodes/about "My portfolio") |
+| **Professional Portfolio** |  [Go to the repository](https://github.com/ZiaCodes/about "Portfolio Design") |
 
 
 
