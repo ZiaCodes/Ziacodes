@@ -8,14 +8,14 @@
 
 ## My best five project repository you can check out ![Web Development](https://raw.githubusercontent.com/ZiaCodes/Ziacodes/master/web-development%20(1).png)
 
-|  Name of the project   |  Type                   |  Repository Link  |
+|  **Name of the project**   |  **Type**                   |  **Repository Link**  |
 |---|---|---|
-| Black Life matters     | Web Design              |  [Go to the repository](https://github.com/ZiaCodes/Black-life-matter "Support Black Life Matters Movement) |
-| **Watch 2 earn**       | Web Design              |  [Go to the repository](https://github.com/ZiaCodes/watch-movie2earn "Advertisement web desgin "Watch to earn website") |
-| Landing page           | Web desgin              | [Go to the repository](https://github.com/ZiaCodes/landing-page "Responsive Landing page "Landing page for desktop site") |
-| Happy Shopping         | Web Design              | [Go to the repository](https://github.com/ZiaCodes/landing-page "E commerce web design") |
-|Minimal Portfolio       | Portfolio Web Design    | [Go to the repository](https://github.com/ZiaCodes/about "My portfolio") |
-| Professional Portfolio | Portfolio Web Design    | [Go to the repository](https://github.com/ZiaCodes/about "Portfolio Design") |
+| **Black Life matters**     | **Web Design**              |  [Go to the repository](https://github.com/ZiaCodes/Black-life-matter "Support Black Life Matters Movement") |
+| **Watch 2 earn**           | **Web Design**              |  [Go to the repository](https://github.com/ZiaCodes/watch-movie2earn "Advertisement web desgin Watch to earn website") |
+| **Landing page**           | **Web desgin**              | [Go to the repository](https://github.com/ZiaCodes/landing-page "Responsive Landing page for desktop site") |
+| **Happy Shopping**         | **Web Design**              | [Go to the repository](https://github.com/ZiaCodes/landing-page "E commerce web design") |
+|**Minimal Portfolio**       | **Portfolio Web Design**    | [Go to the repository](https://github.com/ZiaCodes/about "My portfolio") |
+| **Professional Portfolio** | **Portfolio Web Design**    | [Go to the repository](https://github.com/ZiaCodes/about "Portfolio Design") |
 
 
 
