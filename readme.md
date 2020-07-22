@@ -29,4 +29,4 @@ Please read the [contribution guidelines](contributing.md) first.
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
->keep smiling and work harder.
+>keep smiling ![heart](https://raw.githubusercontent.com/ZiaCodes/Ziacodes/master/heart.png) and work harder.
