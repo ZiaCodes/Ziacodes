@@ -1,4 +1,4 @@
-![alt-text](https://raw.githubusercontent.com/ZiaCodes/Ziacodes/master/profile.gif)
+![alt-text]()
 
 ***
 
