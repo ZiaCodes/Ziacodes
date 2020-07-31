@@ -16,7 +16,7 @@
 | **Happy Shopping**         |  [Go to the repository](https://github.com/ZiaCodes/landing-page "E commerce web design") |
 |**Minimal Portfolio**       |  [Go to the repository](https://github.com/ZiaCodes/about "My portfolio") |
 | **Professional Portfolio** |  [Go to the repository](https://github.com/ZiaCodes/about "Portfolio Design") |
-| **Lucy Virtual voice assistance| [Go to the repository](https://github.com/ZiaCodes/Lucy "Hi , I am lucy") |
+| **Lucy Virtual voice assistance** | [Go to the repository](https://github.com/ZiaCodes/Lucy "Hi , I am lucy") |
 
 
 ## Contribute
