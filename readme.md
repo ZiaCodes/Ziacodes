@@ -1,4 +1,4 @@
-# Hi, I am Zia  [![Syed Ziauddin's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/ziacodes)
+# Hi, I am Zia  
     
 
 ***
